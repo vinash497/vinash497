@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Vinash</h1>
-<h3 align="center">💻 CSE Undergrad | 🤖 AI Enthusiast | 🚀 Future Software Engineer</h3>
+<h3 align="center">💻 CS Undergrad | 🤖 AI Enthusiast | 🚀 Future Software Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/vinash497">
